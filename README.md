@@ -42,7 +42,7 @@ The on-page report is intentionally concise. A compact branded masthead introduc
 - interpreted FloodNet frequency, severity and drainage evidence; and
 - historical NFIP claim counts, paid claims and payments.
 
-Each figure is paired with an interpretation rather than presented as a wall of numbers. The **download flood risk report** button creates a PDF containing all relevant evidence available for the ZIP, including repeated-loss properties, flood-zone distribution, construction and insurance indicators, FSHRI, nearby monitored ZIP context, methodology and limitations.
+Each figure is paired with an interpretation rather than presented as a wall of numbers. The **download flood risk report** button creates a PDF containing all relevant evidence available for the ZIP, including repeated-loss totals, construction and insurance indicators, FSHRI, nearby monitored ZIP context, methodology and limitations.
 
 The dial uses four directly labeled, high-contrast bands: Lower (0-24), Moderate (25-49), High (50-74) and Very high (75-100). The score-driver section groups the six actual index inputs and orders the three groups by their contribution to the final missing-aware score. Each driver displays its grouped input score and share of available index weight.
 
